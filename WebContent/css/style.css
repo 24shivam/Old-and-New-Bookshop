@@ -1,0 +1,22 @@
+.custom-bg {
+	background: #6200ea ;
+}
+.custom-card {
+	background: #6200ea ;
+}
+
+.admin .card {
+	border: 1px solid red;
+}
+
+.admin .card:hover {
+	background: #90a4ae;
+	cursor: pointer;
+}
+
+.product-card:hover {
+	background: #ffff8d;
+	cursor: pointer;
+}
+
+ 
